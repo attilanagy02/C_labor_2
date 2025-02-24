@@ -1,0 +1,15 @@
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.exe
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.deps.json
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.runtimeconfig.json
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.dll
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.pdb
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.AssemblyInfoInputs.cache
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.AssemblyInfo.cs
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.sourcelink.json
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.dll
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\obj\Debug\net9.0\refint\HelloCSharp.dll
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.pdb
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.genruntimeconfig.cache
+C:\Work\SCM6GF\C_labor_2\HelloCSharp\HelloCSharp\obj\Debug\net9.0\ref\HelloCSharp.dll

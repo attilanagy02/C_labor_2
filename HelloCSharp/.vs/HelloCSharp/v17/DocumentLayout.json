@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\SCM6GF\\C_labor_2\\HelloCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{699B471C-1857-4EE8-A59B-1C4624010CCE}|HelloCSharp\\HelloCSharp.csproj|c:\\work\\scm6gf\\c_labor_2\\hellocsharp\\hellocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699B471C-1857-4EE8-A59B-1C4624010CCE}|HelloCSharp\\HelloCSharp.csproj|solutionrelative:hellocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699B471C-1857-4EE8-A59B-1C4624010CCE}|HelloCSharp\\HelloCSharp.csproj|c:\\work\\scm6gf\\c_labor_2\\hellocsharp\\hellocsharp\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699B471C-1857-4EE8-A59B-1C4624010CCE}|HelloCSharp\\HelloCSharp.csproj|solutionrelative:hellocsharp\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699B471C-1857-4EE8-A59B-1C4624010CCE}|HelloCSharp\\HelloCSharp.csproj|c:\\work\\scm6gf\\c_labor_2\\hellocsharp\\hellocsharp\\dogrec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699B471C-1857-4EE8-A59B-1C4624010CCE}|HelloCSharp\\HelloCSharp.csproj|solutionrelative:hellocsharp\\dogrec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 310,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\SCM6GF\\C_labor_2\\HelloCSharp\\HelloCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp\\Program.cs",
+              "ToolTip": "C:\\Work\\SCM6GF\\C_labor_2\\HelloCSharp\\HelloCSharp\\Program.cs",
+              "RelativeToolTip": "HelloCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:26:07.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Work\\SCM6GF\\C_labor_2\\HelloCSharp\\HelloCSharp\\Dog.cs",
+              "RelativeDocumentMoniker": "HelloCSharp\\Dog.cs",
+              "ToolTip": "C:\\Work\\SCM6GF\\C_labor_2\\HelloCSharp\\HelloCSharp\\Dog.cs",
+              "RelativeToolTip": "HelloCSharp\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:22:50.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogRec.cs",
+              "DocumentMoniker": "C:\\Work\\SCM6GF\\C_labor_2\\HelloCSharp\\HelloCSharp\\DogRec.cs",
+              "RelativeDocumentMoniker": "HelloCSharp\\DogRec.cs",
+              "ToolTip": "C:\\Work\\SCM6GF\\C_labor_2\\HelloCSharp\\HelloCSharp\\DogRec.cs",
+              "RelativeToolTip": "HelloCSharp\\DogRec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:22:38.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
